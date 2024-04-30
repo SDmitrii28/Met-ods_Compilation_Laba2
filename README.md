@@ -1,1 +1,2 @@
-# Laba2 LL(1)
+# Laba2 
+LL(1)
